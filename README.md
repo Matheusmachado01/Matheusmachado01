@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Matheus! 
 
 
-Desenvolvedor de software atualmente com foco no Backend, com ideia de me tornar Full Stack no futuro. 
+Desenvolvedor de software atualmente com foco no Backend, com ideia de me tornar Full Stack. 
 </div>
   
   ##
